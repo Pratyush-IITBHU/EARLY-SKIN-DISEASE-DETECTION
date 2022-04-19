@@ -104,8 +104,7 @@
 
 <div align="center">
 <img src=
-"https://user-images.githubusercontent.com/78396437/153777472-1b351907-603e-488a-8395-42e48056d5e4.png
-" 
+"https://user-images.githubusercontent.com/78396437/153777472-1b351907-603e-488a-8395-42e48056d5e4.png" 
          alt="logo" 
          align="center" 
          width="400">
@@ -131,3 +130,8 @@
 
    - I removed majority of non-pigmented, subungual, ocular Melanoma which are similar to Melanocytic-nevi, to make Melanoma more differentiable.
 Also we have stored the model in .json, h5 format uploaded on drive and GitHub for further use
+
+### __NOTE:__ Skin_Disease.h5 is too big to upload(>100mb)
+
+- To test model download it and paste it in this directory.
+- Download it from [HERE](https://drive.google.com/file/d/1Zf9tcOUp3Hi8kgHBP2Zpw-jZJyrB3sty/view?usp=sharing)
